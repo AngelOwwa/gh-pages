@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GandalfLeGris",
+    "description": "",
+    "home_page_url": "https://angelowwa.github.io/gh-pages",
+    "feed_url": "https://angelowwa.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Angel"
+    },
+    "items": [
+        {
+            "id": "https://angelowwa.github.io/gh-pages/gandalf-2021.html",
+            "url": "https://angelowwa.github.io/gh-pages/gandalf-2021.html",
+            "title": "Gandalf - 2021",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://angelowwa.github.io/gh-pages/media/posts/1/Gandalf-odeur_2.jpg\" sizes=\"100vw\" srcset=\"https://angelowwa.github.io/gh-pages/media/posts/1/responsive/Gandalf-odeur_2-xs.jpg 300w ,https://angelowwa.github.io/gh-pages/media/posts/1/responsive/Gandalf-odeur_2-sm.jpg 480w ,https://angelowwa.github.io/gh-pages/media/posts/1/responsive/Gandalf-odeur_2-md.jpg 768w ,https://angelowwa.github.io/gh-pages/media/posts/1/responsive/Gandalf-odeur_2-lg.jpg 1024w ,https://angelowwa.github.io/gh-pages/media/posts/1/responsive/Gandalf-odeur_2-xl.jpg 1360w ,https://angelowwa.github.io/gh-pages/media/posts/1/responsive/Gandalf-odeur_2-2xl.jpg 1600w\"  alt=\"\" width=\"6048\" height=\"4024\"></figure>",
+            "author": {
+                "name": "Angel"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-31T21:55:20+01:00",
+            "date_modified": "2022-10-31T21:55:20+01:00"
+        }
+    ]
+}
